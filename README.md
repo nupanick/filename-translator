@@ -1,0 +1,1 @@
+python script for translating filenames (e.g. japanese mp3s)
